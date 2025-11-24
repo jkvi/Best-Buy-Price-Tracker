@@ -1,7 +1,5 @@
 # Best-Buy-Price-Tracker
 
----
-
 ## What This Script Does (High-Level Overview)
 
 This is a **BestBuy price and stock tracker**. Its main purpose is to:
