@@ -6,3 +6,8 @@ This script is a price and stock tracker for BestBuy products.
 - It can track multiple products at once and remember previous prices for ongoing monitoring.
 
 Essentially, it’s an automated way to watch BestBuy products so you never miss a sale or stock restock.
+
+I have included 3 versions.
+scraper.py is the first working version that I made.
+scraperws.py is an upgraded version with stock/availabilty checker.
+scraoerwos.py is the final version with everything included before but allows multiple items and optional email notifications.
