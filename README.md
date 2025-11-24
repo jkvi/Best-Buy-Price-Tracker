@@ -1,19 +1,4 @@
 # Best-Buy-Price-Tracker
-This script is a price and stock tracker for BestBuy products.
-- It scrapes product pages to get the latest price, availability, and sale info.
-- It compares the current data to previous data stored in a file.
-- If price drops or stock changes, it alerts you via desktop notification or optionally email.
-- It can track multiple products at once and remember previous prices for ongoing monitoring.
-
-Essentially, it’s an automated way to watch BestBuy products so you never miss a sale or stock restock.
-
-I have included 3 versions.
-scraper.py is the first working version that I made.
-scraperws.py is an upgraded version with stock/availabilty checker.
-scraperwps.py is the final version with everything included before but allows multiple items and optional email notifications.
-
-I got the idea to create this project from https://www.youtube.com/watch?v=Bg9r_yLk7VY. Due to Amazon blocking automated scraping, I decided to create a scraper for BestBuy instead.
-
 
 ---
 
@@ -26,6 +11,13 @@ This is a **BestBuy price and stock tracker**. Its main purpose is to:
 3. Compare the current price and stock to the **last time you checked**.
 4. Notify you if the price drops or stock changes (desktop alert or email).
 5. Save a **history of prices** in a file so you can track changes over time.
+
+I have included 3 versions.
+scraper.py is the first working version that I made.
+scraperws.py is an upgraded version with stock/availabilty checker.
+scraperwps.py is the final version with everything included before but allows multiple items and optional email notifications.
+
+I came up with the idea to create this project from https://www.youtube.com/watch?v=Bg9r_yLk7VY. Due to Amazon blocking automated scraping, I decided to create a scraper for BestBuy instead.
 
 ---
 
