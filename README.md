@@ -11,3 +11,5 @@ I have included 3 versions.
 scraper.py is the first working version that I made.
 scraperws.py is an upgraded version with stock/availabilty checker.
 scraperwps.py is the final version with everything included before but allows multiple items and optional email notifications.
+
+I got the idea to create this project from https://www.youtube.com/watch?v=Bg9r_yLk7VY. Due to Amazon blocking automated scraping, I decided to create a scraper for BestBuy instead.
