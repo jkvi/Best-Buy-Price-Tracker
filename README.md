@@ -15,8 +15,6 @@ scraperwps.py is the final version with everything included before but allows mu
 I got the idea to create this project from https://www.youtube.com/watch?v=Bg9r_yLk7VY. Due to Amazon blocking automated scraping, I decided to create a scraper for BestBuy instead.
 
 
-Step-by-Step Explanation of BestBuy Price & Stock Tracker Script
-
 ---
 
 ## What This Script Does (High-Level Overview)
